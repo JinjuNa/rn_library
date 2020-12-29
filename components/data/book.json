@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "cid": 1,
+        "title": "인문학도, 개발자 되다",
+        "author": "마르코",
+        "publisher": "영진닷컴",
+        "img": "img001.jpg",
+        "memo": "개발자의 세계를 처음 접하기에 좋았다.",
+        "star": "Y",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 2,
+        "cid": 1,
+        "title": "벤츠 타는 프로그래머",
+        "author": "정금호",
+        "publisher": "제이펍",
+        "img": "img002.jpg",
+        "memo": "개발자의 스토리를 듣기에 좋았다. 어떤 가치를 가진 개발자가 될까를 고민하면서 읽었다.",
+        "star": "N",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 3,
+        "cid": 2,
+        "title": "아주 작은 반복의 힘",
+        "author": "로버트 마우어",
+        "publisher": "스몰빅라이프",
+        "img": "img003.jpg",
+        "memo": "나의 인생책! 작고 재미있는 반복으로 많은 것들을 이루어낼 수 있었다.",
+        "star": "Y",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 4,
+        "cid": 2,
+        "title": "오늘, 또 일을 미루고 말았다",
+        "author": "나카지마 사토시",
+        "publisher": "북클라우드",
+        "img": "img004.jpg",
+        "memo": "개발자와 미루기 방지의 조합이 신선하고 도움이 많이 되었다.",
+        "star": "Y",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 5,
+        "cid": 2,
+        "title": "그냥, 닥치고 하라!",
+        "author": "브라이언 트레이시",
+        "publisher": "나무",
+        "img": "img005.jpg",
+        "memo": "유투브로 접했던 책!",
+        "star": "N",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 6,
+        "cid": 1,
+        "title": "개발자의 글쓰기",
+        "author": "김철수",
+        "publisher": "위키북스",
+        "img": "img006.jpg",
+        "memo": "기술 블로그에 도움이 되는 책",
+        "star": "N",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 7,
+        "cid": 1,
+        "title": "디지털 노마드",
+        "author": "도유진",
+        "publisher": "남해의봄날",
+        "img": "img008.jpg",
+        "memo": "디지털 노마드에 대한 개념",
+        "star": "N",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 8,
+        "cid": 1,
+        "title": "지금의 조건에서 시작하는 힘",
+        "author": "스티븐 기즈",
+        "publisher": "북하우스",
+        "img": "img009.jpg",
+        "memo": "완벽주의를 재미있게 이겨낼 수 있는 책",
+        "star": "Y",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 9,
+        "cid": 1,
+        "title": "서비스 디자인 씽킹",
+        "author": "배성환",
+        "publisher": "한빛미디어",
+        "img": "img010.jpg",
+        "memo": "서비스기획과 디자인씽킹을 접목시킨 책",
+        "star": "N",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    },
+    {
+        "id": 10,
+        "cid": 1,
+        "title": "IT에 몸담은 이들을 위한 지적생산기술",
+        "author": "니시오 히로카즈",
+        "publisher": "제이펍",
+        "img": "img007.jpg",
+        "memo": "",
+        "star": "N",
+        "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%25EA%25B7%25B8%25EB%2583%25A5%252C%2520%25EB%258B%25A5%25EC%25B9%2598%25EA%25B3%25A0%2520%25ED%2595%2598%25EB%259D%25BC%21%28Just%2520Shut%2520Up%2520and%2520DO%2520IT%21%29&orderClick=LEA"
+    }
+]
